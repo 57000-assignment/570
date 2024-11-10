@@ -1,4 +1,4 @@
-## U-GAT-IT &mdash; Official PyTorch Implementation
+## U-GAT-IT &mdash;  PyTorch Reimplementation
 ### : Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
 
 <div align="center">
