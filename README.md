@@ -16,7 +16,7 @@ The results of the paper came from the **Tensorflow code**
 ## Usage
 ```
 ├── dataset
-   └── YOUR_DATASET_NAME
+   └── selfie2anime
        ├── trainA
            ├── xxx.jpg (name, format doesn't matter)
            ├── yyy.png
@@ -39,7 +39,6 @@ The results of the paper came from the **Tensorflow code**
 ```
 > python main.py --dataset selfie2anime
 ```
-* If the memory of gpu is **not sufficient**, set `--light` to True
 
 ### Test
 ```
