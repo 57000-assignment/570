@@ -54,7 +54,7 @@ https://drive.google.com/file/d/1xOWj1UVgp6NKMT3HbPhBbtq2A4EDkghF/view
 
 ### Results
 ```
-Due to files limitation,results files can't upload
+Due to files limitation,results files can't upload. After running training and testing, results can be created automatically。
 ```
 
 ## Architecture
