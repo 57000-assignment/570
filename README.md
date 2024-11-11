@@ -50,6 +50,11 @@ https://drive.google.com/file/d/1xOWj1UVgp6NKMT3HbPhBbtq2A4EDkghF/view
 > python main.py --dataset selfie2anime --phase test
 ```
 
+### Results
+```
+Due to quantity limitation,results files can't upload
+```
+
 ## Architecture
 <div align="center">
   <img src = './assets/generator.png' width = '785px' height = '500px'>
