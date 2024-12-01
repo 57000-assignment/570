@@ -2,7 +2,7 @@
 ### : Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
 
 <div align="center">
-  <img src="./assets/3.png">
+  <img src="./assets/8.png">
 </div>
 
 
