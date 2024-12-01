@@ -71,9 +71,4 @@ Due to files limitation,results files can't upload. After running training and t
 ```
 
 
----
-
-<div align="center">
-  <img src = './assets/discriminator.png' width = '785px' height = '450px'>
-</div>
 
