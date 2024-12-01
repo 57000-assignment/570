@@ -70,10 +70,6 @@ Sample
 Due to files limitation,results files can't upload. After running training and testing, results can be created automatically。
 ```
 
-## Architecture
-<div align="center">
-  <img src = './assets/generator.png' width = '785px' height = '500px'>
-</div>
 
 ---
 
