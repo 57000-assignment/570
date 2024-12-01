@@ -47,11 +47,11 @@ Platform:
 Gpushare cloud:GPU-A30
 
 
-main.py:Due to gpu disk and time constraints.Run 10, 100, 1000, 10000 iterations to analyze the model.
-UGATIT.py:Add functions to plot D_losses and G_losses to analyze the model performance.(results in term paper)
-test.py:Added functionality to extract specific sections of combined images for KID calculation.
-kid.py:Implemented feature extraction, kernel function, and KID computation.
-Eg.
+> **code**main.py:Due to gpu disk and time constraints.Run 10, 100, 1000, 10000 iterations to analyze the model.
+> UGATIT.py:Add functions to plot D_losses and G_losses to analyze the model performance.(results in term paper)
+> test.py:Added functionality to extract specific sections of combined images for KID calculation.
+> kid.py:Implemented feature extraction, kernel function, and KID computation.
+> Sample
 <div align="center">
   <img src="./assets/1.png">
 </div>
