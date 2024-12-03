@@ -42,7 +42,7 @@ main.py:Due to gpu disk and time constraints.Run 10, 100, 1000, 10000 iterations
 
 UGATIT.py:Add functions to plot D_losses and G_losses to analyze the model performance.(results in term paper)
 
-test.py:Added functionality to extract specific sections of combined images for KID calculation.
+test.py:Add functionality to extract specific sections of combined images for KID calculation.
 
 kid.py:Implemented feature extraction, kernel function, and KID computation.
 
